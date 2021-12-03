@@ -8,6 +8,6 @@ The **data.json** file contains the final data set in our iterative ML procedure
 
 # Codes
 
-As long as data.json is prepared, we can build ML models for cohesive energy, volumetric density, and hardness.
+As long as data.json is prepared, we can enter the code folder to build ML models for cohesive energy, volumetric density, and hardness.
 
 ### Building ML model:
