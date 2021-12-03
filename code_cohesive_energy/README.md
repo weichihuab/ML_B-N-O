@@ -12,3 +12,6 @@ The outputs include:
   feature_importances_cohesive.png: feature importances for the ML model for cohesive energy.
   
   rf_cohesive.joblib: ML random forests model for cohesive energy.
+
+Once rf_cohesive.joblib is generated, we can do ML prediction and plot the ternary graph by
+  - python ternary_cohesive.py
