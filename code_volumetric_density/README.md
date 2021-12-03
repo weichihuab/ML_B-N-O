@@ -1,5 +1,7 @@
 # Run the code
 
+The procedure to build volumetric density model is similar to cohesive energy model.
+
 With the data.json in upper folder (/path_to/ML_B-N_O/), we can build the model directly by
   - python density.py
 
