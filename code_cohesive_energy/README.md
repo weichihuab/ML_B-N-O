@@ -13,5 +13,5 @@ The outputs include:
   
   4. rf_cohesive.joblib: ML random forests model for cohesive energy.
 
-Once rf_cohesive.joblib is generated, we can do ML prediction and plot the ternary graph by
+Once rf_cohesive.joblib is generated, we can do ML prediction and plot the ternary graph (ternary_cohesive.png) by
   - python ternary_cohesive.py
