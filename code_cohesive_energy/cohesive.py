@@ -93,7 +93,7 @@ for axis in ['top','bottom','left','right']:
     ax.spines[axis].set_linewidth(1.5)
 
 plt.axes().set_aspect('equal')
-plt.savefig('evaluation_cohesive_energy.png',dpi=300,bbox_inches='tight')
+plt.savefig('evaluation_cohesive.png',dpi=300,bbox_inches='tight')
 plt.clf()
 
 
@@ -130,5 +130,5 @@ sorted_idx = sorted_idx[0:5]
 #print(grid_search.best_estimator_.feature_importances_)
 plt.barh(np.array(feature_names)[sorted_idx], grid_search.best_estimator_.feature_importances_[sorted_idx])
 plt.xlabel("Random Forest Feature Importance")
-plt.savefig('feature_importances_cohesive_energy.png',dpi=300,bbox_inches='tight')
+plt.savefig('feature_importances_cohesive.png',dpi=300,bbox_inches='tight')
 plt.clf()
