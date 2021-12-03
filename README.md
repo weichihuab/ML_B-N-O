@@ -10,3 +10,8 @@ The **data.json** file contains the final data set in our iterative ML procedure
 
 As long as data.json is prepared, we can enter the code folders to build ML models for cohesive energy, volumetric density, and hardness. Please go to each folder for more instructions.
 
+# Environment
+  - python 3.7
+  - pymatgen 2021.2.16
+  - sklearn 0.23.2
+  - ternary 1.0.8
