@@ -13,5 +13,5 @@ The outputs include:
   
   4. rf_hardness.joblib: ML random forests model for hardness.
 
-Once rf_hardness.joblib and rf_density.joblib (in code_volumetric_density) are generated, we can do ML prediction for hardness and plot the ternary graph (ternary_hardness.png) by
+Once rf_hardness.joblib and rf_density.joblib (in code_volumetric_density folder) are generated, we can do ML prediction for hardness and plot the ternary graph (ternary_hardness.png) by
   - python ternary_hardness.py
