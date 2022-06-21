@@ -1,12 +1,7 @@
 # Description
 
-This repository contains the Python codes, ML data, and discovered B-N-O compounds in our study for the search of new B-N-O ternary superhard materials. For more information, please find our paper "Discovering Superhard B-N-O Compounds by Iterative Machine Learning and Evolutionary Structure Predictions" on **ACS Omega 2022, 7, 24, 21035–21042**
-
-https://doi.org/10.1021/acsomega.2c01818
-
-or on ArXiv:
-
-https://arxiv.org/abs/2111.12923.
+This repository contains the Python codes, ML data, and discovered B-N-O compounds in our study for the search of new B-N-O ternary superhard materials. For more information, please find our paper "Discovering Superhard B-N-O Compounds by Iterative Machine Learning and Evolutionary Structure Predictions" on ACS Omega 2022, 7, 24, 21035–21042:https://doi.org/10.1021/acsomega.2c01818
+or on ArXiv:https://arxiv.org/abs/2111.12923.
 
 # Data
 
